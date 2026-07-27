@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm vijay!
 
 🚀 Passionate about **Full Stack Development, AI, Cloud Computing & Cybersecurity**
 
